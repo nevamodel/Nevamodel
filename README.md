@@ -1,4 +1,4 @@
-<b><u>Herramienta para el cálculo de la carga de nieve sobre terreno horizontal</u></b>
+<b><H1>Herramienta para el cálculo de la carga de nieve sobre terreno horizontal</H1></b>
 
 El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes premisas:
 - Cada hoja del libro tiene título.
@@ -13,7 +13,7 @@ El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes pre
  
 ![image](https://user-images.githubusercontent.com/108299903/176739536-bcb721d4-7ed8-40b0-b4ca-25729b050395.png)
 
-<b><u>Manual de Instrucciones</u><b>
+<b><H2>Manual de Instrucciones</H2><b>
 
 - Pestaña Datos y Cálculos: 
   - Introducir en el bloque 1 - Datos de Partida, los datos de AEMET de la estación meteorológica selecionada.
