@@ -1,4 +1,5 @@
-<b><H>Herramienta para el cálculo de la carga de nieve sobre terreno horizontal</H></b>
+<title><b>Herramienta para el cálculo de la carga de nieve sobre terreno horizontal</b></title>
+
 
 El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes premisas:
 - Cada hoja del libro tiene título.
