@@ -1,7 +1,5 @@
-<html>
-<head>
-<title><b>Herramienta para el cálculo de la carga de nieve sobre terreno horizontal</b></title>
-</head>
+
+<b>Herramienta para el cálculo de la carga de nieve sobre terreno horizontal</b>
 
 El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes premisas:
 - Cada hoja del libro tiene título.
@@ -36,5 +34,3 @@ El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes pre
 
 - Pestaña Función de Probabilidad:
   - Se puede consultar esta función y se refrescan los datos mediante el botón Actualizar.
-
-</html>
