@@ -13,7 +13,7 @@ El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes pre
  
 ![image](https://user-images.githubusercontent.com/108299903/176739536-bcb721d4-7ed8-40b0-b4ca-25729b050395.png)
 
-Manual d Instrucciones
+Manual de Instrucciones
 
 - Pestaña Datos y Cálculos: 
   - Introducir en el bloque 1 - Datos de PArtida, los datos de AEMET de la estación meteorológica selecionada.
@@ -23,5 +23,14 @@ Manual d Instrucciones
 - Pestaña Simulación de Montecarlo:
   - Ejecutar la macro Simulaciópn mediante el botón disponible. 
  
-- Pestaña Análisis y Resutados:
-- 
+- Pestaña Análisis y Resultados:
+  - En el gráfico 1 se deben  excluir los valores cero de la pracipitación simulada.
+  - Seleccionar la línea de tendencia más adecuada, preferiblemente con R2 >0,9
+  - Los parámetros A y B se determinan a partir de la fórmula de regresión  del gráfico 1: Y= A*Ln(x)+B
+  - La fórmula de regresión se emplea solo si la precipitación simulada = 0
+  - El gráfico 2 es el resuñtado final.
+  - La sobrecarga de nieve se calcula en el bloque 8 - Resultados, seleccionando un Periodo de Retorno y Peso Específico.
+
+- Pestaña Función de Probabilidad:
+  - Se puede consultar esta función y se actualizan los datos mediante el botón Actualizar.
+
