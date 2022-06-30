@@ -14,7 +14,8 @@ El modelo de cálculo que se presenta se ha desarrollado bajo las siguientes pre
  
 ![image](https://user-images.githubusercontent.com/108299903/176739536-bcb721d4-7ed8-40b0-b4ca-25729b050395.png)
 
-<title><b>Manual de Instrucciones</b></title>
+
+<b>Manual de Instrucciones</b>
 
 - Pestaña Datos y Cálculos: 
   - Introducir en el bloque 1 - Datos de Partida, los datos de AEMET de la estación meteorológica selecionada.
